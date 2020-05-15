@@ -21,7 +21,7 @@ export default {
       format: 'esm'
     },
     {
-      name: 'ReactDemoAuth',
+      name: 'ReactDemoAuth', // rename it to React Demo Component Setup
       file: `${dist}/${bundle}.umd.js`,
       globals: {
         react: 'React'

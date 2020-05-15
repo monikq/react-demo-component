@@ -1,5 +1,5 @@
 {
-  "name": "react-demo-auth",
+  "name": "react-demo-component",
   "version": "1.0.0",
   "description": "react user authentication, responsive navigation, routes",
   "main": "dist/bundle.cjs.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/monikq/react-demo-auth.git"
+    "url": "git+https://github.com/monikq/react-demo-component.git"
   },
   "keywords": [
     "react",
@@ -23,9 +23,9 @@
   "author": "Mona",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/monikq/react-demo-auth/issues"
+    "url": "https://github.com/monikq/react-demo-component.git/issues"
   },
-  "homepage": "https://github.com/monikq/react-demo-auth#readme",
+  "homepage": "https://github.com/monikq/react-demo-component#readme",
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
