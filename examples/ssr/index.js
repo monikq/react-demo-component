@@ -1,7 +1,7 @@
 const { createElement } = require('react')
 const express = require('express')
 const ReactDOM = require('react-dom/server')
-const { Spinner } = require('react-demo-auth')
+const { Spinner } = require('react-demo-auth') // rename 'react-demo-component'
 
 const port = 3000
 const app = express()

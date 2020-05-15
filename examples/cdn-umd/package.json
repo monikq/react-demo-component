@@ -1,0 +1,12 @@
+{
+  "name": "cdn-umd",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "react-demo-component": "file:../.."
+  },
+  "devDependencies": {
+    "serve": "^11.3.0"
+  }
+}
